@@ -6,6 +6,8 @@ package cn.joinhealth;
 public class Demo {
 
     public static void main(String[] args) {
-        System.out.println("hello github！");
+        System.out.println("hello github push！");
+         System.out.println("hello github pull！");
+
     }
 }
