@@ -11,6 +11,9 @@ public class Demo {
         System.out.println("hello github pull！");
         System.out.println("hello github pull！2");
         System.out.println("hello github pull！3");
+        System.out.println("12321".charAt(2));
+        System.out.println("12321".substring(2,3));
+        System.out.println("12321".split("3"));
 
 
     }
